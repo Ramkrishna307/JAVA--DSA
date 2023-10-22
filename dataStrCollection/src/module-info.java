@@ -1,0 +1,2 @@
+module dataStrCollection {
+}
